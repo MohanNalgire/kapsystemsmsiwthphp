@@ -8,7 +8,7 @@
  	error_log(
 	 	$last_error['message'],
  		3,
- 		"./msg91_error.log"
+ 		"./kapsystemsms_error.log"
  		);
 	
 	$csv_mimetypes = array(
