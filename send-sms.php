@@ -62,8 +62,8 @@ if (
 	/**
 	*	Created on 		:	20-March-2017.
 	*	Created by 		:	Mohan Nalgire mnalgire@gmail.com
-	*	Modified on 	:		
-	*	Modified by 	:	Mohan Nalgire mnalgire@gmail.com
+	*	Modified on 		:		
+	*	Modified by 		:	Mohan Nalgire mnalgire@gmail.com
 	*/	
 
 	function openurl($url,$postvars) {
