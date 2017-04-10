@@ -97,9 +97,9 @@ $GSM=getMobileNo($target);
 //From above data query string.
 $querystring = http_build_query(
 			array(
-			  'username'=>"kapbulk",//use your sms api username
-              'pass'=>"kapbulk@@123", //enter your password
-              'senderid'=>"KAPMSG",//Your api sender id.
+			  'username'=>"",//use your sms api username
+              'pass'=>"", //enter your password
+              'senderid'=>"",//Your api sender id.
               'message'=>$_POST['msg'],//Your text message for sms.
               'dest_mobileno'=>"10digit mobileno",//10 digit mobile no comma separated.
               'response'=>"Y",//
